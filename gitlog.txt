@@ -1,0 +1,17 @@
+commit 8dc24af7dfa48316285cfcd2339e3716b956d4bc
+Author: duchuy0411 <duchuy0411@gmail.com>
+Date:   Fri Mar 27 13:41:10 2020 +0700
+
+    added gitignore
+
+commit edba8483baf5b999e940bdfaf4826adb326385f1
+Author: duchuy0411 <duchuy0411@gmail.com>
+Date:   Fri Mar 27 12:21:36 2020 +0700
+
+    added two files
+
+commit 6034cdf44c5a233e53086f496ddbace3e1ec2f8c
+Author: duchuy0411 <duchuy0411@gmail.com>
+Date:   Fri Mar 27 12:05:39 2020 +0700
+
+    added readme.txt
